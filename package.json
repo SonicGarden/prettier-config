@@ -1,0 +1,15 @@
+{
+  "name": "@sonicgarden/prettier-config",
+  "version": "0.0.1",
+  "description": "Prettier config used at SonicGarden",
+  "repository": "SonicGarden/prettier-config",
+  "keywords": [
+    "prettier"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "author": "aki77",
+  "main": "index.js"
+}
